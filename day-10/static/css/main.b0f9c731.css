@@ -1,0 +1,33 @@
+body {
+  background: #d2b887
+}
+
+.navbar {
+  padding: 15px;
+  border-radius: 0
+}
+
+.App-intro {
+  font-size: large
+}
+
+textarea {
+  resize: none;
+  width: 80%;
+  height: 30%;
+  border: 1px solid #000
+}
+
+.btn-danger {
+  font-size: 1.5em;
+  width: 200px;
+  -webkit-box-shadow: 0 5px 0 0 #b01500;
+  box-shadow: 0 5px 0 0 #b01500
+}
+
+.btn-danger:active {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  margin-bottom: -3px;
+  margin-top: 3px
+}
